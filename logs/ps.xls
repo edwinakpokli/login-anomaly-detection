@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html class='pc chrome win psc_dir-ltr psc_form-xlarge' dir='ltr' lang='en'>
+<!-- Copyright (c) 2000, 2022, Oracle and/or its affiliates.  -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><body><table border='1' cellpadding='3' cellspacing='0'>
+<tr>
+<th>Course</th><th>Description</th><th>Term</th><th>Grade</th><th>Units</th><th>Grd Points</th><th>Repeat Code</th><th>Reqmnt Desig</th><th>Status</th><th>Transcript Note</th></tr>
+<tr>
+<td  >ARTH 70A</td>
+<td  >Art Hist Prehis-Med</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >D</td>
+<td  >3.00</td>
+<td>&nbsp;
+</td>
+<td  >Transfer Repeat Exclude All Cr</td>
+<td  >GE: 3A  Arts (C1)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ARTH 70A</td>
+<td  >Art Hist Prehis-Med</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >3.00</td>
+<td  >6.000</td>
+<td  ></td>
+<td  >GE: 3A  Arts (C1)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ARTH 70B</td>
+<td  >Art Hist Ren-Mod</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  >GE: 3A  Arts (C1)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >BUS1 20</td>
+<td  >Financial Accounting</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >F</td>
+<td  >3.00</td>
+<td  ></td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >BUS3 160</td>
+<td  >Fund Mgmt & Org Beh</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C-</td>
+<td  >3.00</td>
+<td  >5.100</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CHEM 1A</td>
+<td  >General Chem</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >5.00</td>
+<td  >10.000</td>
+<td  ></td>
+<td  >GE: 5A+5C Physical Sci + Lab</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CHEM 1B</td>
+<td  >Gen Chem</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >B</td>
+<td  >5.00</td>
+<td  >15.000</td>
+<td  ></td>
+<td  >GE: 5A+5C Physical Sci + Lab</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >COMM 20</td>
+<td  >Public Speaking</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  >GE: 1C Oral Communication (A1)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CS 46A</td>
+<td  >Intro to Programming</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CS 46A</td>
+<td  >Intro to Programming</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >F</td>
+<td  >3.00</td>
+<td>&nbsp;
+</td>
+<td  >Transfer Repeat Exclude All Cr</td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CS 47</td>
+<td  >Intro to Comp Sytm</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ENGL 1A</td>
+<td  >First Year Writing</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >4.00</td>
+<td  >16.000</td>
+<td  ></td>
+<td  >GE: 1A English Comp (A2)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ENGL 2</td>
+<td  >Critical Thinking and Writing</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >4.00</td>
+<td  >16.000</td>
+<td  ></td>
+<td  >GE: 1B Critical Thinking (A3)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ENGR 10</td>
+<td  >Intro to Engr</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >B</td>
+<td  >3.00</td>
+<td  >9.000</td>
+<td  ></td>
+<td  >GE: E Human Understndng &amp; Devl</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >FREN 1A</td>
+<td  >Elem French</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >B</td>
+<td  >5.00</td>
+<td  >15.000</td>
+<td  ></td>
+<td  >GE: 3B Humanities (C2)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >FREN 1B</td>
+<td  >Elem French</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >5.00</td>
+<td  >10.000</td>
+<td  ></td>
+<td  >GE: 3B Humanities (C2)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >FREN 25A</td>
+<td  >Inter Fren Reading</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >250</td>
+<td  >3.33</td>
+<td  >8.325</td>
+<td  ></td>
+<td  >GE: 3B Humanities (C2)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >FREN 25B</td>
+<td  >Inter Fren Writing</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >250</td>
+<td  >3.33</td>
+<td  >8.325</td>
+<td  ></td>
+<td  >GE: 3B Humanities (C2)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >FREN 25C</td>
+<td  >Inter Fren Oral</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >250</td>
+<td  >3.33</td>
+<td  >8.325</td>
+<td  ></td>
+<td  >GE: 3B Humanities (C2)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 101</td>
+<td  >Online Learning</td>
+<td  >Spring 2026</td>
+<td  ></td>
+<td  >1.00</td>
+<td>&nbsp;
+</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 110</td>
+<td  >Tech Culture Society</td>
+<td  >Spring 2026</td>
+<td  ></td>
+<td  >3.00</td>
+<td  ></td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 111</td>
+<td  >Information/Data Sci</td>
+<td  >Fall 2026</td>
+<td  ></td>
+<td  >3.00</td>
+<td  ></td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 121</td>
+<td  >Hum Cent Cybersecur</td>
+<td  >Fall 2026</td>
+<td  ></td>
+<td  >3.00</td>
+<td  ></td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 20A</td>
+<td  >Query Languages</td>
+<td  >Spring 2026</td>
+<td  ></td>
+<td  >1.00</td>
+<td  ></td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 20B</td>
+<td  >Python Programming</td>
+<td  >Spring 2026</td>
+<td  ></td>
+<td  >2.00</td>
+<td  ></td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 20C</td>
+<td  >Web Development</td>
+<td  >Spring 2026</td>
+<td  ></td>
+<td  >1.00</td>
+<td  ></td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 20D</td>
+<td  >Computer Op Systems</td>
+<td  >Spring 2026</td>
+<td  ></td>
+<td  >1.00</td>
+<td  ></td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 80</td>
+<td  >Intro Hum AI</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >3.00</td>
+<td  >6.000</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >ISDA 81</td>
+<td  >Ethics AI</td>
+<td  >Spring 2026</td>
+<td  ></td>
+<td  >3.00</td>
+<td  ></td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >LLD 100WB</td>
+<td  >Wrtg Wrkshp Bsns Stdnts</td>
+<td  >Fall 2026</td>
+<td  ></td>
+<td  >3.00</td>
+<td  ></td>
+<td  ></td>
+<td  >Writing in the Disciplines</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >MATH 18A</td>
+<td  >College Algebra</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >B</td>
+<td  >4.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  >GE: 2 Math/Quant Reason (B4)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >MATH 18B</td>
+<td  >Trigonometry</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >3.00</td>
+<td  >6.000</td>
+<td  ></td>
+<td  >GE: 2 Math/Quant Reason (B4)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >MATH 30</td>
+<td  >Calculus I</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >F</td>
+<td  >5.00</td>
+<td>&nbsp;
+</td>
+<td  >Transfer Repeat Exclude All Cr</td>
+<td  >GE: 2 Math/Quant Reason (B4)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >MATH 30</td>
+<td  >Calculus I</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >4.00</td>
+<td  >8.000</td>
+<td  ></td>
+<td  >GE: 2 Math/Quant Reason (B4)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >MATH 31</td>
+<td  >Calculus II</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >4.00</td>
+<td  >8.000</td>
+<td  ></td>
+<td  >GE: 2 Math/Quant Reason (B4)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >MATH 42</td>
+<td  >Discrete Math</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >MUSC 19</td>
+<td  >Mus Wrld Cultures</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  >GE: 3A  Arts (C1)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >PHYS 50</td>
+<td  >General Physics I</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >F</td>
+<td  >5.00</td>
+<td  ></td>
+<td  ></td>
+<td  >GE: 5A+5C Physical Sci + Lab</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >PSYC 1</td>
+<td  >Introductory Psychology</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >3.00</td>
+<td  >6.000</td>
+<td  ></td>
+<td  >GE: Area 4: Any Soc &amp; Beh Sci</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >PSYC 30</td>
+<td  >Intro Psychbiology</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  >GE: Area 4: Any Soc &amp; Beh Sci</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >SOCI 1</td>
+<td  >Intro to Sociology</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >B</td>
+<td  >3.00</td>
+<td  >9.000</td>
+<td  ></td>
+<td  >GE: Area 4: Any Soc &amp; Beh Sci</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD 3A</td>
+<td  >Transfer Course 3A (C1)</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >D</td>
+<td  >3.00</td>
+<td>&nbsp;
+</td>
+<td  >Transfer Repeat Exclude All Cr</td>
+<td  >GE: 3A  Arts (C1)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD 3A</td>
+<td  >Transfer Course 3A (C1)</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  >GE: 3A  Arts (C1)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD 5A</td>
+<td  >Transfer Course 5A (B1)</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >B</td>
+<td  >3.00</td>
+<td  >9.000</td>
+<td  ></td>
+<td  >GE: 5A Physical Science (B1)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD 5B</td>
+<td  >Transfer Course 5B (B2)</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >3.00</td>
+<td  >6.000</td>
+<td  ></td>
+<td  >GE: 5B Biological Science (B2)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD 5B5C</td>
+<td  >Transfer Crse 5B+5C (B2B3)</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >4.00</td>
+<td  >16.000</td>
+<td  ></td>
+<td  >GE: 5B + 5C Biol Sci + Lab</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD 6</td>
+<td  >Transfer Course 6 (F)</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  >GE: 6 Ethnic Studies (F)</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD CRS</td>
+<td  >Transfer Course</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >B</td>
+<td  >3.00</td>
+<td  >9.000</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD CRS</td>
+<td  >Transfer Course</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD CRS</td>
+<td  >Transfer Course</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >D</td>
+<td  >3.00</td>
+<td>&nbsp;
+</td>
+<td  >Transfer Repeat Exclude All Cr</td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD CRS</td>
+<td  >Transfer Course</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >3.00</td>
+<td  >12.000</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD CRS</td>
+<td  >Transfer Course</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >B</td>
+<td  >3.00</td>
+<td  >9.000</td>
+<td  ></td>
+<td  ></td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD EPE</td>
+<td  >Transfer  E & PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.50</td>
+<td  >6.000</td>
+<td  ></td>
+<td  >GE: E &amp; PE: PE</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD EPE</td>
+<td  >Transfer  E & PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.50</td>
+<td  >6.000</td>
+<td  ></td>
+<td  >GE: E &amp; PE: PE</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD EPE</td>
+<td  >Transfer  E & PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >GE: E &amp; PE: PE</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD EPE</td>
+<td  >Transfer  E & PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >GE: E &amp; PE: PE</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD EPE</td>
+<td  >Transfer  E & PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >GE: E &amp; PE: PE</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD EPE</td>
+<td  >Transfer  E & PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >GE: E &amp; PE: PE</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >2.00</td>
+<td  >8.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >2.00</td>
+<td  >8.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >2.00</td>
+<td  >8.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >0.50</td>
+<td  >2.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >0.50</td>
+<td  >2.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.50</td>
+<td  >6.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >1.00</td>
+<td  >4.000</td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >TRLD PE</td>
+<td  >Transfer Course PE</td>
+<td  >Fall 2025</td>
+<td  style="mso-number-format:\@;"  >F</td>
+<td  >1.00</td>
+<td  ></td>
+<td  ></td>
+<td  >PE: Physical Education</td>
+<td  >&nbsp;</td>
+<td>&nbsp;
+</td>
+</table></body></html>
